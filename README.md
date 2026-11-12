@@ -1,5 +1,7 @@
 # SPK Network 2.0 (HivePoA)
 
+[![Powered By Hive](https://img.shields.io/static/v1?label=Hive&message=Powered%20By%20Hive&color=E31337&labelColor=212529&logo=hive_blockchain&logoColor=white&style=flat)](https://hive.io/)
+
 Decentralized storage validation protocol built on the Hive L1 blockchain. Validators run Proof of Access (PoA) challenges against IPFS storage nodes, earn HBD micropayments for honest work, and broadcast results on-chain via `custom_json` operations.
 
 **Live Demo:** [dhenz14.github.io/HivePoA](https://dhenz14.github.io/HivePoA/) (static site — browse the UI without a backend)
